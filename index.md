@@ -56,6 +56,8 @@ và không gửi chi phí mua cả hai cuốn.
 * Sau 2-3 ngày làm việc, chúng tôi sẽ gửi xác nhận kèm theo đường dẫn cho bạn.
 
 ### Cam kết Bảo mật
+Chúng tôi có một số điểm mong muốn được thoả thuận với bạn khi nhận cuốn sách này, cụ thể là:
+
 * Vui lòng không cung cấp email công ty, tổ chức, group mail, và mail có tên không rõ ý nghĩa hoặc có thể nhận thấy 
 là mail dùng cho mục đích chia sẻ sử dụng chung, hoặc những mục đích khác nằm ngoài giới hạn sử dụng cá nhân,...
 * Vui lòng không chia sẻ tài khoản Google mà bạn nhận được sách này cho người khác với mục đích chia sẻ quyền đọc nội dung cuốn sách.
