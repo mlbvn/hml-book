@@ -13,6 +13,18 @@ Cảm ơn bạn đã tin tưởng và ủng hộ cho cuốn sách này. Dưới 
 * Phản hổi cho Cuốn sách: [handson-ml@mlbvn.org](mailto:handson-ml@mlbvn.org)
 * Đánh giá Cuốn sách: [Goodreads](https://www.goodreads.com/book/show/58798645)
 
+### Mục lục Sách
+
+1. Toàn cảnh Học Máy
+2. Dự án Học Máy từ Đầu tới Cuối
+3. Bài toán Phân loại
+4. Huấn luyện Mô Hình
+5. Máy Vector Hỗ trợ
+6. Cây Quyết định
+7. Học Ensemble và Rừng Ngẫu nhiên
+8. Giảm Chiều
+9. Các kỹ thuật Học Không giám sát
+
 ### Chính sách Giá
 
 Vì cuốn sách này được thực hiện với mục tiêu cộng đồng, chúng tôi mong muốn cuốn sách có thể đến được với nhiều độc giả hơn. 
@@ -23,6 +35,9 @@ Vì vậy, đây là chính sách giá:
 
 Với những độc giả lựa chọn mua cả hai tập sách, chúng tôi sẽ mở đơn đăng ký cho tập 2 sau khi được phát hành, 
 lúc này bạn hãy cho chúng tôi biết bạn đã đặt tập 1 là được.
+
+**Lưu ý:** Hiện tại chỉ mở đăng ký cho tập 1, vui lòng chỉ chuyển khoản đúng chi phí cho tập 1 
+và không gửi chi phí mua cả hai cuốn.
 
 ### Quy trình Đặt sách
 
