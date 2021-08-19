@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+## Thực hành Học máy với Scikit-Learn, Keas & TensorFlow
 
-You can use the [editor on GitHub](https://github.com/mlbvn/hml-book/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Bạn thân mến,
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Cảm ơn bạn đã tin tưởng và ủng hộ cho cuốn sách này. Dưới đây là một vài thông tin bạn cần nắm trước khi bạn thực hiện đặt sách. 
 
-### Markdown
+### Thông tin Chung
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Ngày phát hành: **20/08/2021**
+* Đăng ký đặt sách: https://forms.gle/npLF1U4Xb9EKcesZ8
+* Phản hổi cho Cuốn sách: handson-ml@mlbvn.org
+* Đánh giá Cuốn sách: https://www.goodreads.com/book/show/58798645
 
-```markdown
-Syntax highlighted code block
+### Chính sách Giá
 
-# Header 1
-## Header 2
-### Header 3
+Vì cuốn sách này được thực hiện với mục tiêu cộng đồng, chúng tôi mong muốn cuốn sách có thể đến được với nhiều độc giả hơn. 
+Vì vậy, đây là chính sách giá:
 
-- Bulleted
-- List
+* Mua lẻ chỉ tập 1 hoặc tập 2. Chi phí: **200,000đ**
+* Đặt mua cả hai tập. Chi phí cuốn đầu là **200,000đ**, và cuốn tiếp theo sẽ là **150,000đ**.
 
-1. Numbered
-2. List
+Với những độc giả lựa chọn mua cả hai tập sách, chúng tôi sẽ mở đơn đăng ký cho tập 2 sau khi được phát hành, 
+lúc này bạn hãy cho chúng tôi biết bạn đã đặt tập 1 là được.
 
-**Bold** and _Italic_ and `Code` text
+### Quy trình Đặt sách
 
-[Link](url) and ![Image](src)
-```
+* Bạn chuyển khoản và điền thông tin vào biểu mẫu ở dưới.
+* Sau 2-3 ngày làm việc, chúng tôi sẽ gửi xác nhận kèm theo đường dẫn cho bạn.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Cam kết Bảo mật
+* Vui lòng không cung cấp email công ty, tổ chức, group mail, và mail có tên không rõ ý nghĩa hoặc có thể nhận thấy 
+là mail dùng cho mục đích chia sẻ sử dụng chung, hoặc những mục đích khác nằm ngoài giới hạn sử dụng cá nhân,...
+* Vui lòng không chia sẻ tài khoản Google mà bạn nhận được sách này cho người khác với mục đích chia sẻ quyền đọc nội dung cuốn sách.
+* Không cố gắng thực hiện việc sao chép, phân bổ các nội dung của cuốn sách lên Internet mà không có sự đồng ý bằng văn bản từ chúng tôi.
 
-### Jekyll Themes
+### Thông tin Chuyển khoản
+#### Trong nước
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mlbvn/hml-book/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Người đại diện: DOAN VO DUY THANH
+* Số tài khoản: 0129 4577 586
+* Ngân hàng TMCP Tiên Phong (TPBank)
+* Nội dung chuyển khoản: HML1 [Họ và tên của bạn] [Tên email]
 
-### Support or Contact
+#### Quốc tế
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* Người đại diện: DOAN VO DUY THANH
+* Cổng thanh toán: https://www.paypal.com/paypalme/duythanhvn
+* Nội dung chuyển khoản: HML1 [Họ và tên của bạn] [Tên email]
+
+### Hỏi đáp & Hỗ trợ
+
+Các hỏi đáp & hỗ trợ liên quan đến đặt sách và nội dung sách, độc giả có thể gửi đến 
+địa chỉ handson-ml@mlbvn.org để chúng tôi có thể hỗ trợ.
+
+Trong trường hợp bạn mua tặng cho người khác, 
+bạn vui lòng điền biểu mẫu theo thông tin của người được tặng.
+
+Ngoài ra, chúng tôi khuyến khích độc giả thảo luận, hỏi đáp, và phản hồi trên Github Discussions 
+theo đường dẫn này: https://github.com/mlbvn/handson-ml2-vn/discussions
+
+Cảm ơn quý độc giả đã ủng hộ chúng tôi.
+
+Thân mến,<br/>
+**Nhóm dịch thuật Machine Learning Cơ Bản**
