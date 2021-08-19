@@ -1,6 +1,6 @@
-# Thực hành Học máy với Scikit-Learn, Keas & TensorFlow
-
 ![](cover.png)
+
+# Thực hành Học máy với Scikit-Learn, Keas & TensorFlow
 
 Bạn thân mến,
 
