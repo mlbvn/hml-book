@@ -1,6 +1,8 @@
 # handson
 Phát hành sách "Thực hành Học máy với Scikit-Learn, Keas &amp; TensorFlow
 
+![](books-mockup-scene@2x.png)
+
 ## Thông tin Cơ bản
 
 Ngày phát hành chính thức: **20/08/2021**
