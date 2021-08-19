@@ -95,7 +95,7 @@ tuy nhiên nếu bạn muốn hiểu tường tận thì nên dành thời gian 
 mặc dù sách sẽ gợi ý bạn một vài nguồn để bạn tự trang bị kiến thức về lập trình và toán; hành trình này sẽ không dễ dàng.
 Mong bạn kiên nhẫn với chính mình.
 
-### Hỏi đáp & Hỗ trợ
+### Hỗ trợ
 
 Các hỏi đáp & hỗ trợ liên quan đến đặt sách và nội dung sách, độc giả có thể gửi đến 
 địa chỉ [handson-ml@mlbvn.org](mailto:handson-ml@mlbvn.org) để chúng tôi có thể hỗ trợ.
