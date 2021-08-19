@@ -41,7 +41,7 @@ là mail dùng cho mục đích chia sẻ sử dụng chung, hoặc những mụ
 * Người đại diện: DOAN VO DUY THANH
 * Số tài khoản: 0129 4577 586
 * Ngân hàng TMCP Tiên Phong (TPBank)
-* Nội dung chuyển khoản: HML1 [Họ và tên của bạn] [Tên email]
+* Nội dung chuyển khoản: HML1 [Họ và tên của bạn] [Tên email] (thay @ bằng at nếu bạn không thể gõ ký tự này)
 
 #### Quốc tế
 
