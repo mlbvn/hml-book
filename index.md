@@ -7,9 +7,9 @@ Cảm ơn bạn đã tin tưởng và ủng hộ cho cuốn sách này. Dưới 
 ### Thông tin Chung
 
 * Ngày phát hành: **20/08/2021**
-* Đăng ký đặt sách: https://forms.gle/npLF1U4Xb9EKcesZ8
-* Phản hổi cho Cuốn sách: handson-ml@mlbvn.org
-* Đánh giá Cuốn sách: https://www.goodreads.com/book/show/58798645
+* Đăng ký đặt sách: [Điền biểu mẫu tại đây](https://forms.gle/npLF1U4Xb9EKcesZ8)
+* Phản hổi cho Cuốn sách: [handson-ml@mlbvn.org](mailto:handson-ml@mlbvn.org)
+* Đánh giá Cuốn sách: [Goodreads](https://www.goodreads.com/book/show/58798645)
 
 ### Chính sách Giá
 
@@ -44,19 +44,19 @@ là mail dùng cho mục đích chia sẻ sử dụng chung, hoặc những mụ
 #### Quốc tế
 
 * Người đại diện: DOAN VO DUY THANH
-* Cổng thanh toán: https://www.paypal.com/paypalme/duythanhvn
+* Cổng thanh toán: [Paypal](https://www.paypal.com/paypalme/duythanhvn)
 * Nội dung chuyển khoản: HML1 [Họ và tên của bạn] [Tên email]
 
 ### Hỏi đáp & Hỗ trợ
 
 Các hỏi đáp & hỗ trợ liên quan đến đặt sách và nội dung sách, độc giả có thể gửi đến 
-địa chỉ handson-ml@mlbvn.org để chúng tôi có thể hỗ trợ.
+địa chỉ [handson-ml@mlbvn.org](mailto:handson-ml@mlbvn.org) để chúng tôi có thể hỗ trợ.
 
 Trong trường hợp bạn mua tặng cho người khác, 
 bạn vui lòng điền biểu mẫu theo thông tin của người được tặng.
 
-Ngoài ra, chúng tôi khuyến khích độc giả thảo luận, hỏi đáp, và phản hồi trên Github Discussions 
-theo đường dẫn này: https://github.com/mlbvn/handson-ml2-vn/discussions
+Ngoài ra, chúng tôi khuyến khích độc giả thảo luận, hỏi đáp, 
+và phản hồi trên [Github Discussions](https://github.com/mlbvn/handson-ml2-vn/discussions).
 
 Cảm ơn quý độc giả đã ủng hộ chúng tôi.
 
