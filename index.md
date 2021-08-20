@@ -9,6 +9,7 @@ Cảm ơn bạn đã tin tưởng và ủng hộ cho cuốn sách này. Dưới 
 ### Thông tin Chung
 
 * Ngày phát hành: **20/08/2021**
+* Hình thức phát hành: **Sách điện tử**
 * Đăng ký đặt sách: [Điền biểu mẫu tại đây](https://forms.gle/npLF1U4Xb9EKcesZ8)
 * Phản hổi cho Cuốn sách: [handson-ml@mlbvn.org](mailto:handson-ml@mlbvn.org)
 * Đánh giá Cuốn sách: [Goodreads](https://www.goodreads.com/book/show/58798645)
@@ -41,8 +42,8 @@ nhiên (Random Forests) và các phương pháp Ensemble.
 Vì cuốn sách này được thực hiện với mục tiêu cộng đồng, chúng tôi mong muốn cuốn sách có thể đến được với nhiều độc giả hơn. 
 Vì vậy, đây là chính sách giá:
 
-* Mua lẻ chỉ tập 1 hoặc tập 2. Chi phí: **200,000đ**
-* Đặt mua cả hai tập. Chi phí cuốn đầu là **200,000đ**, và cuốn tiếp theo sẽ là **150,000đ**.
+* Mua lẻ chỉ tập 1 hoặc tập 2. Chi phí: **200,000đ** ($8.7)
+* Đặt mua cả hai tập. Chi phí cuốn đầu là **200,000đ** ($8.7), và cuốn tiếp theo sẽ là **150,000đ** ($6.7).
 
 Với những độc giả lựa chọn mua cả hai tập sách, chúng tôi sẽ mở đơn đăng ký cho tập 2 sau khi được phát hành, 
 lúc này bạn hãy cho chúng tôi biết bạn đã đặt tập 1 là được.
@@ -68,14 +69,17 @@ là mail dùng cho mục đích chia sẻ sử dụng chung, hoặc những mụ
 
 * Người đại diện: DOAN VO DUY THANH
 * Số tài khoản: 0129 4577 586
-* Ngân hàng TMCP Tiên Phong (TPBank)
-* Nội dung chuyển khoản: HML1 [Họ và tên của bạn] [Tên email] (thay @ bằng at nếu bạn không thể gõ ký tự này)
+* Ngân hàng TMCP Tiên Phong (TPBank) - Chi nhánh Hồ Chí Minh
+* Nội dung chuyển khoản: HML1 [Họ và tên của bạn] [Tên email] (thay @ bằng at, . bằng dot nếu bạn không thể gõ ký tự này)
 
 #### Quốc tế
 
 * Người đại diện: DOAN VO DUY THANH
 * Cổng thanh toán: [Paypal](https://www.paypal.com/paypalme/duythanhvn)
 * Nội dung chuyển khoản: HML1 [Họ và tên của bạn] [Tên email]
+
+**Lưu ý:** Paypal có thể tính thêm Fee khi chuyển tiền ở những lựa chọn thanh toán khác nhau (hoặc người phải thanh toán phần Fee), 
+bạn vui lòng **kiểm tra phần Fee** này để chuyển khoản đủ cho chúng tôi trước khi gửi; tránh việc chúng tôi nhận chưa đủ sau khi trừ Fee.
 
 ### Câu hỏi Thường gặp (FAQ)
 **Hỏi**: Mình chỉ mới biết về Python thì có đọc được cuốn này không?<br/>
