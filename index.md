@@ -19,15 +19,13 @@ Cảm ơn bạn đã tin tưởng và ủng hộ cho cuốn sách này. Dưới 
 
 Trong tập đầu tiên - **Kiến thức Nền tảng về Học Máy** - chúng tôi đề cập đến các chủ đề sau:
 
-* Định nghĩa Học Máy, ứng dụng, các nhóm chính và những khái niệm cơ bản trong các hệ
-thống Học Máy.
+* Định nghĩa Học Máy, ứng dụng, các nhóm chính và những khái niệm cơ bản trong các hệ thống Học Máy.
 * Các bước cơ bản trong một dự án Học Máy.
 * Học bằng cách khớp một mô hình theo dữ liệu.
 * Tối ưu hàm mất mát.
 * Quản lý, làm sạch và chuẩn bị dữ liệu.
 * Chọn và thiết kế đặc trưng.
-* Chọn mô hình và tinh chỉnh siêu tham số (hyperparameter tuning) bằng kiểm định chéo
-(cross-validation).
+* Chọn mô hình và tinh chỉnh siêu tham số (hyperparameter tuning) bằng kiểm định chéo (cross-validation).
 * Các thách thức trong Học Máy, đặc biệt là dưới khớp (underfitting) và quá khớp (overfitting)
 (đánh đổi độ chệch/phương sai).
 * Các thuật toán học phổ biến nhất: Hồi quy Tuyến tính và Đa thức (Linear and Polynomial
@@ -43,8 +41,8 @@ nhiên (Random Forests) và các phương pháp Ensemble.
 Vì cuốn sách này được thực hiện với mục tiêu cộng đồng, chúng tôi mong muốn cuốn sách có thể đến được với nhiều độc giả hơn. 
 Vì vậy, đây là chính sách giá:
 
-* Mua lẻ chỉ tập 1 hoặc tập 2. Chi phí: **200,000đ ($8.7)**
-* Đặt mua cả hai tập. Chi phí cuốn đầu là **200,000đ ($8.7)**, và cuốn tiếp theo sẽ là **150,000đ ($6.7)**.
+* Mua lẻ chỉ tập 1 hoặc tập 2. Chi phí: **200,000đ ($9)**
+* Đặt mua cả hai tập. Chi phí cuốn đầu là **200,000đ ($9)**, và cuốn tiếp theo sẽ là **150,000đ ($7)**.
 
 Với những độc giả lựa chọn mua cả hai tập sách, chúng tôi sẽ mở đơn đăng ký cho tập 2 sau khi được phát hành, 
 lúc này bạn hãy cho chúng tôi biết bạn đã đặt tập 1 là được.
