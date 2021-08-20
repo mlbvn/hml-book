@@ -11,6 +11,7 @@ Cảm ơn bạn đã tin tưởng và ủng hộ cho cuốn sách này. Dưới 
 * Ngày phát hành: **20/08/2021**
 * Hình thức phát hành: **Sách điện tử**
 * Đăng ký đặt sách: [Điền biểu mẫu tại đây](https://forms.gle/npLF1U4Xb9EKcesZ8)
+* Đọc thử: [Xem tại đây](https://drive.google.com/file/d/1y-jjYf_KNPS2DNqjqUmcZjhwUTmEqBKQ/view?usp=sharing)
 * Phản hổi cho Cuốn sách: [handson-ml@mlbvn.org](mailto:handson-ml@mlbvn.org)
 * Đánh giá Cuốn sách: [Goodreads](https://www.goodreads.com/book/show/58798645)
 
@@ -42,8 +43,8 @@ nhiên (Random Forests) và các phương pháp Ensemble.
 Vì cuốn sách này được thực hiện với mục tiêu cộng đồng, chúng tôi mong muốn cuốn sách có thể đến được với nhiều độc giả hơn. 
 Vì vậy, đây là chính sách giá:
 
-* Mua lẻ chỉ tập 1 hoặc tập 2. Chi phí: **200,000đ** ($8.7)
-* Đặt mua cả hai tập. Chi phí cuốn đầu là **200,000đ** ($8.7), và cuốn tiếp theo sẽ là **150,000đ** ($6.7).
+* Mua lẻ chỉ tập 1 hoặc tập 2. Chi phí: **200,000đ ($8.7)**
+* Đặt mua cả hai tập. Chi phí cuốn đầu là **200,000đ ($8.7)**, và cuốn tiếp theo sẽ là **150,000đ ($6.7)**.
 
 Với những độc giả lựa chọn mua cả hai tập sách, chúng tôi sẽ mở đơn đăng ký cho tập 2 sau khi được phát hành, 
 lúc này bạn hãy cho chúng tôi biết bạn đã đặt tập 1 là được.
