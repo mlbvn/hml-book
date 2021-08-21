@@ -1,5 +1,3 @@
-# Thực hành Học máy với Scikit-Learn, Keras & TensorFlow
-
 ![](/assets/img/cover.png)
 
 Bạn thân mến,
