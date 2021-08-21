@@ -1,6 +1,6 @@
 # Thực hành Học máy với Scikit-Learn, Keras & TensorFlow
 
-![](cover.png)
+![](/assets/img/cover.png)
 
 Bạn thân mến,
 
