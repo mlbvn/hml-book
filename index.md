@@ -102,7 +102,8 @@ Mong bạn kiên nhẫn với chính mình.
 ### Hỗ trợ
 
 Các hỏi đáp & hỗ trợ liên quan đến đặt sách và nội dung sách, độc giả có thể gửi đến 
-địa chỉ [handson-ml@mlbvn.org](mailto:handson-ml@mlbvn.org) để chúng tôi có thể hỗ trợ.
+địa chỉ [handson-ml@mlbvn.org](mailto:handson-ml@mlbvn.org), 
+hoặc [Facebook Page của Nhóm dịch thuật](https://fb.com/mlbvn.group/) để chúng tôi có thể hỗ trợ.
 
 Trong trường hợp bạn mua tặng cho người khác, 
 bạn vui lòng điền biểu mẫu theo thông tin của người được tặng.
