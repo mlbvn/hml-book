@@ -56,6 +56,8 @@ và không gửi chi phí mua cả hai cuốn.
 * Sau 2-3 ngày làm việc, chúng tôi sẽ gửi xác nhận kèm theo đường dẫn cho bạn.
 
 ### Cam kết Bảo mật
+Vì lý do bản quyền, cuốn sách chỉ có thể được **đọc trực tuyến bằng trình đọc PDF trên Google Drive** vào thời điểm hiện tại, rất mong bạn đọc thông cảm. 
+
 Chúng tôi có một số điểm mong muốn được thoả thuận với bạn khi nhận cuốn sách này, cụ thể là:
 
 * Vui lòng không cung cấp email công ty, tổ chức, group mail, và mail có tên không rõ ý nghĩa hoặc có thể nhận thấy 
