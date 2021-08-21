@@ -1,4 +1,4 @@
-# Thực hành Học máy với Scikit-Learn, Keas & TensorFlow
+# Thực hành Học máy với Scikit-Learn, Keras & TensorFlow
 
 ![](cover.png)
 
