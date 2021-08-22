@@ -62,7 +62,7 @@ là mail dùng cho mục đích chia sẻ sử dụng chung, hoặc những mụ
 <dd>Không, chúng tôi chưa có kế hoạch cho một bản in. Trong tương lai có thể có.</dd>
 <dt>Mình đã chuyển khoản ngày ... nhưng chưa nhận được?</dt>
 <dd>Có thể bạn chưa điền biểu mẫu ở trên, nếu bạn đã điền thì có thể chúng tôi chưa nhận được chuyển khoản
-hoặc chúng tôi chưa xử lý đến. Bạn vui lòng [liên hệ chúng tôi](#hỗ-trợ) để chúng tôi kiểm tra tình trạng đơn hàng giúp bạn nhé.</dd>
+hoặc chúng tôi chưa xử lý đến. Bạn vui lòng <a href="#hỗ-trợ">liên hệ chúng tôi</a> để chúng tôi kiểm tra tình trạng đơn hàng giúp bạn nhé.</dd>
 <dt>Mình chỉ mới biết về Python thì có đọc được cuốn này không?</dt>
 <dd>Hoàn toàn được.</dd>
 <dt>Tôi cần trang bị những gì để có thể tiếp thu cuốn sách này trọn vẹn?</dt>
