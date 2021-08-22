@@ -8,9 +8,7 @@ Cảm ơn bạn đã tin tưởng và ủng hộ cho cuốn sách này. Dưới 
 
 * Ngày phát hành: **20/08/2021**
 * Hình thức phát hành: **Sách điện tử**
-* Đăng ký đặt sách: [Điền biểu mẫu tại đây](https://forms.gle/npLF1U4Xb9EKcesZ8)
 * Đọc thử: [Xem tại đây](https://drive.google.com/file/d/1y-jjYf_KNPS2DNqjqUmcZjhwUTmEqBKQ/view?usp=sharing)
-* Phản hổi cho Cuốn sách: [handson-ml@mlbvn.org](mailto:handson-ml@mlbvn.org)
 * Đánh giá Cuốn sách: [Goodreads](https://www.goodreads.com/book/show/58798645)
 
 ### Lộ trình
@@ -26,7 +24,7 @@ Vì vậy, cuốn sách này có chi phí là **200,000đ ($9)**.
 
 Bạn chuyển khoản và điền thông tin vào biểu mẫu này.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdczliSUKTMgKzCMiey4P9OtzCLq3_adCJ3wikJueS_nDiljA/viewform?embedded=true" width="540" height="1100" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdczliSUKTMgKzCMiey4P9OtzCLq3_adCJ3wikJueS_nDiljA/viewform?embedded=true" width="530" height="1160" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 Sau **2-3 ngày làm việc**, chúng tôi sẽ gửi thông tin chi tiết kèm đường dẫn truy cập vào sách cho bạn.
 
