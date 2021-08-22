@@ -4,18 +4,18 @@ Bạn thân mến,
 
 Cảm ơn bạn đã tin tưởng và ủng hộ cho cuốn sách này. Dưới đây là một vài thông tin bạn cần nắm trước khi bạn thực hiện đặt sách. 
 
-### Thông tin Chung
+## Thông tin Chung
 
 * Ngày phát hành: **20/08/2021**
-* Hình thức phát hành: **Sách điện tử**
+* Hình thức phát hành: **Sách điện tử** đọc trực tuyến
 * Đọc thử: [Xem tại đây](https://drive.google.com/file/d/1y-jjYf_KNPS2DNqjqUmcZjhwUTmEqBKQ/view?usp=sharing)
 * Đánh giá Cuốn sách: [Goodreads](https://www.goodreads.com/book/show/58798645)
 
-### Lộ trình
+## Lộ trình
 
-[Xem lộ trình nội dung chi tiết](./roadmap.html).
+[Xem lộ trình nội dung chi tiết](./roadmap.html)
 
-### Chính sách Giá
+## Đặt sách
 
 Vì cuốn sách này được thực hiện với mục tiêu cộng đồng, chúng tôi mong muốn cuốn sách có thể đến được với nhiều độc giả hơn. 
 Vì vậy, cuốn sách này có chi phí là **200,000đ ($9)**.
@@ -24,20 +24,9 @@ Vì vậy, cuốn sách này có chi phí là **200,000đ ($9)**.
 
 Bạn chuyển khoản và điền thông tin vào biểu mẫu này.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdczliSUKTMgKzCMiey4P9OtzCLq3_adCJ3wikJueS_nDiljA/viewform?embedded=true" width="530" height="1220" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdczliSUKTMgKzCMiey4P9OtzCLq3_adCJ3wikJueS_nDiljA/viewform?embedded=true" width="530" height="1180" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 Sau **2-3 ngày làm việc**, chúng tôi sẽ gửi thông tin chi tiết kèm đường dẫn truy cập vào sách cho bạn.
-
-### Cam kết Bảo mật
-Vì lý do bản quyền, cuốn sách chỉ có thể được **đọc trực tuyến bằng trình đọc PDF trên Google Drive** 
-vào thời điểm hiện tại, rất mong bạn đọc thông cảm. 
-
-Chúng tôi có một số điểm mong muốn được thoả thuận với bạn khi nhận cuốn sách này, cụ thể là:
-
-* Vui lòng không cung cấp email công ty, tổ chức, group mail, và mail có tên không rõ ý nghĩa hoặc có thể nhận thấy 
-là mail dùng cho mục đích chia sẻ sử dụng chung, hoặc những mục đích khác nằm ngoài giới hạn sử dụng cá nhân,...
-* Vui lòng không chia sẻ tài khoản Google mà bạn nhận được sách này cho người khác với mục đích chia sẻ quyền đọc nội dung cuốn sách.
-* Không cố gắng thực hiện việc sao chép, phân bổ các nội dung của cuốn sách lên Internet mà không có sự đồng ý bằng văn bản từ chúng tôi.
 
 ### Thông tin Chuyển khoản
 #### Trong nước
@@ -55,6 +44,17 @@ là mail dùng cho mục đích chia sẻ sử dụng chung, hoặc những mụ
 
 **Lưu ý:** Paypal có thể tính thêm Fee khi chuyển tiền ở những lựa chọn thanh toán khác nhau (hoặc người phải thanh toán phần Fee), 
 bạn vui lòng **kiểm tra phần Fee** này để chuyển khoản đủ cho chúng tôi trước khi gửi; tránh việc chúng tôi nhận chưa đủ sau khi trừ Fee.
+
+### Cam kết Bảo mật
+Vì lý do bản quyền và quy định phát hành, cuốn sách chỉ có thể được **đọc trực tuyến tập PDF trên Google Drive** 
+vào thời điểm hiện tại, không tải về, không chia sẻ, không in ấn; rất mong bạn đọc thông cảm. 
+
+Chúng tôi có một số điểm mong muốn được thoả thuận với bạn khi nhận cuốn sách này, cụ thể là:
+
+* Vui lòng không cung cấp email công ty, tổ chức, group mail, và mail có tên không rõ ý nghĩa hoặc có thể nhận thấy 
+là mail dùng cho mục đích chia sẻ sử dụng chung, hoặc những mục đích khác nằm ngoài giới hạn sử dụng cá nhân,...
+* Vui lòng không chia sẻ tài khoản Google mà bạn nhận được sách này cho người khác với mục đích chia sẻ quyền đọc nội dung cuốn sách.
+* Không cố gắng thực hiện việc sao chép, phân bổ các nội dung của cuốn sách lên Internet mà không có sự đồng ý bằng văn bản từ chúng tôi.
 
 ### Câu hỏi Thường gặp (FAQ)
 
