@@ -24,7 +24,8 @@ Vì vậy, cuốn sách này có chi phí là **200,000đ ($9)**.
 
 Bạn chuyển khoản và điền thông tin vào biểu mẫu này.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdczliSUKTMgKzCMiey4P9OtzCLq3_adCJ3wikJueS_nDiljA/viewform?embedded=true" width="530" height="1180" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdczliSUKTMgKzCMiey4P9OtzCLq3_adCJ3wikJueS_nDiljA/viewform?embedded=true?hl=vi" 
+width="540" height="1170" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 Sau **2-3 ngày làm việc**, chúng tôi sẽ gửi thông tin chi tiết kèm đường dẫn truy cập vào sách cho bạn.
 
@@ -47,7 +48,9 @@ bạn vui lòng **kiểm tra phần Fee** này để chuyển khoản đủ cho 
 
 ### Cam kết Bảo mật
 Vì lý do bản quyền và quy định phát hành, cuốn sách chỉ có thể được **đọc trực tuyến tập PDF trên Google Drive** 
-vào thời điểm hiện tại, không tải về, không chia sẻ, không in ấn; rất mong bạn đọc thông cảm. 
+vào thời điểm hiện tại, không tải về, không chia sẻ, không in ấn; rất mong độc giả hiểu cho quyết định này.
+
+Trong tương lai, chúng tôi hy vọng có thể thay đổi và mang lại trải nghiệm đọc tốt hơn.
 
 Chúng tôi có một số điểm mong muốn được thoả thuận với bạn khi nhận cuốn sách này, cụ thể là:
 
