@@ -8,12 +8,9 @@ Cảm ơn bạn đã tin tưởng và ủng hộ cho cuốn sách này. Dưới 
 
 * Ngày phát hành: **20/08/2021**
 * Hình thức phát hành: **Sách điện tử** đọc trực tuyến
+* Nội dung: [Xem lộ trình nội dung chi tiết](./roadmap.html)
 * Đọc thử: [Xem tại đây](https://drive.google.com/file/d/1y-jjYf_KNPS2DNqjqUmcZjhwUTmEqBKQ/view?usp=sharing)
 * Đánh giá Cuốn sách: [Goodreads](https://www.goodreads.com/book/show/58798645)
-
-## Lộ trình
-
-[Xem lộ trình nội dung chi tiết](./roadmap.html)
 
 ## Đặt sách
 
@@ -25,7 +22,7 @@ Vì vậy, cuốn sách này có chi phí là **200,000đ ($9)**.
 Bạn chuyển khoản và điền thông tin vào biểu mẫu này.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdczliSUKTMgKzCMiey4P9OtzCLq3_adCJ3wikJueS_nDiljA/viewform?embedded=true?hl=vi" 
-width="540" height="1170" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+width="540" height="1150" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 Sau **2-3 ngày làm việc**, chúng tôi sẽ gửi thông tin chi tiết kèm đường dẫn truy cập vào sách cho bạn.
 
@@ -42,9 +39,6 @@ Sau **2-3 ngày làm việc**, chúng tôi sẽ gửi thông tin chi tiết kèm
 * Người đại diện: DOAN VO DUY THANH
 * Cổng thanh toán: [Paypal](https://www.paypal.com/paypalme/duythanhvn)
 * Nội dung chuyển khoản: HML1 [Họ và tên của bạn] [Tên email]
-
-**Lưu ý:** Paypal có thể tính thêm Fee khi chuyển tiền ở những lựa chọn thanh toán khác nhau (hoặc người phải thanh toán phần Fee), 
-bạn vui lòng **kiểm tra phần Fee** này để chuyển khoản đủ cho chúng tôi trước khi gửi; tránh việc chúng tôi nhận chưa đủ sau khi trừ Fee.
 
 ### Cam kết Bảo mật
 Vì lý do bản quyền và quy định phát hành, cuốn sách chỉ có thể được **đọc trực tuyến tập PDF trên Google Drive** 
