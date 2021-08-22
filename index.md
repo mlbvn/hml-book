@@ -15,24 +15,7 @@ Cảm ơn bạn đã tin tưởng và ủng hộ cho cuốn sách này. Dưới 
 
 ### Lộ trình
 
-Trong tập đầu tiên - **Kiến thức Nền tảng về Học Máy** - chúng tôi đề cập đến các chủ đề sau:
-
-* Định nghĩa Học Máy, ứng dụng, các nhóm chính và những khái niệm cơ bản trong các hệ thống Học Máy.
-* Các bước cơ bản trong một dự án Học Máy.
-* Học bằng cách khớp một mô hình theo dữ liệu.
-* Tối ưu hàm mất mát.
-* Quản lý, làm sạch và chuẩn bị dữ liệu.
-* Chọn và thiết kế đặc trưng.
-* Chọn mô hình và tinh chỉnh siêu tham số (hyperparameter tuning) bằng kiểm định chéo (cross-validation).
-* Các thách thức trong Học Máy, đặc biệt là dưới khớp (underfitting) và quá khớp (overfitting)
-(đánh đổi độ chệch/phương sai).
-* Các thuật toán học phổ biến nhất: Hồi quy Tuyến tính và Đa thức (Linear and Polynomial
-Regression), Hồi quy Logistic (Logistic Regression), k-điểm gần nhất (k-Nearest Neighbors),
-Máy Vector Hỗ trợ (Support Vector Machines), Cây Quyết định (Decision Trees), Rừng Ngẫu
-nhiên (Random Forests) và các phương pháp Ensemble.
-* Giảm chiều dữ liệu huấn luyện để đối phó với “lời nguyền số chiều” (curse of dimensionality).
-* Các kỹ thuật học không giám sát (unsupervised learning) khác, bao gồm phân cụm (clustering),
-ước lượng mật độ (density estimation) và phát hiện bất thường (anomaly detection).
+[Xem lộ trình nội dung chi tiết](./roadmap.html).
 
 ### Chính sách Giá
 
@@ -82,22 +65,22 @@ là mail dùng cho mục đích chia sẻ sử dụng chung, hoặc những mụ
 bạn vui lòng **kiểm tra phần Fee** này để chuyển khoản đủ cho chúng tôi trước khi gửi; tránh việc chúng tôi nhận chưa đủ sau khi trừ Fee.
 
 ### Câu hỏi Thường gặp (FAQ)
-**Hỏi**: Mình chỉ mới biết về Python thì có đọc được cuốn này không?<br/>
-**Đáp**: Được bạn ạ.
 
-**Hỏi**: Tôi cần trang bị những gì để có thể tiếp thu cuốn sách này trọn vẹn?<br/>
-**Đáp**: Bạn cần có kinh nghiệp lập trình Python và đã có kinh nghiệm sử dụng các thư viện khoa học của Python,
+<dl>
+<dt>Mình chỉ mới biết về Python thì có đọc được cuốn này không?</dt>
+<dd>Hoàn toàn được.</dd>
+<dt>Tôi cần trang bị những gì để có thể tiếp thu cuốn sách này trọn vẹn?</dt>
+<dd>Bạn cần có kinh nghiệp lập trình Python và đã có kinh nghiệm sử dụng các thư viện khoa học của Python,
 ở đây cụ thể là NumPy, Pandas, và Matplotlib. Đồng thời, nếu bạn  quan tâm đến các kiến thức nền tảng, 
-bạn cần kha khá kiến thức toán đại học như giải tích, đại số tuyến tính, xác suất và thống kê.
-
-**Hỏi**: Mình đang nắm không vững về toán, mình nên làm gì?<br/>
-**Đáp**: Cuốn sách có những phần kiến thức bổ sung để giúp bạn tiếp cận cuốn sách dễ dàng hơn, 
-tuy nhiên nếu bạn muốn hiểu tường tận thì nên dành thời gian để học kỹ hơn về Toán.
-
-**Hỏi**: Mình chưa từng bắt tay vào lập trình, có một chút ít kiến thức về toán, liệu có phù hợp để đọc không?<br/>
-**Đáp**: Cuốn sách này phù hợp khi bạn mong muốn tìm hiểu. Bạn sẽ cần nhiều thời gian hơn để có thể tiếp cận,
+bạn cần kha khá kiến thức toán đại học như giải tích, đại số tuyến tính, xác suất và thống kê.</dd>
+<dt>Mình đang nắm không vững về toán, mình nên làm gì?</dt>
+<dd>Cuốn sách có những phần kiến thức bổ sung để giúp bạn tiếp cận cuốn sách dễ dàng hơn, 
+tuy nhiên nếu bạn muốn hiểu tường tận thì nên dành thời gian để học kỹ hơn về Toán.</dd>
+<dt>Mình chưa từng bắt tay vào lập trình, có một chút ít kiến thức về toán, liệu có phù hợp để đọc không?</dt>
+<dd>Cuốn sách này phù hợp khi bạn mong muốn tìm hiểu. Bạn sẽ cần nhiều thời gian hơn để có thể tiếp cận,
 mặc dù sách sẽ gợi ý bạn một vài nguồn để bạn tự trang bị kiến thức về lập trình và toán; hành trình này sẽ không dễ dàng.
-Mong bạn kiên nhẫn với chính mình.
+Mong bạn kiên nhẫn với chính mình.</dd>
+</dl>
 
 ### Hỗ trợ
 
