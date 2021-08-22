@@ -82,7 +82,7 @@ mặc dù sách sẽ gợi ý bạn một vài nguồn để bạn tự trang b�
 Mong bạn kiên nhẫn với chính mình.</dd>
 </dl>
 
-### <a name="ho-tro"></a>Hỗ trợ
+### [Hỗ trợ](#ho-tro)
 
 Các hỏi đáp & hỗ trợ liên quan đến đặt sách và nội dung sách, độc giả có thể gửi đến 
 địa chỉ [handson-ml@mlbvn.org](mailto:handson-ml@mlbvn.org), 
