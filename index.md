@@ -24,7 +24,7 @@ Vì vậy, cuốn sách này có chi phí là **200,000đ ($9)**.
 
 Bạn chuyển khoản và điền thông tin vào biểu mẫu này.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdczliSUKTMgKzCMiey4P9OtzCLq3_adCJ3wikJueS_nDiljA/viewform?embedded=true" width="530" height="1160" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdczliSUKTMgKzCMiey4P9OtzCLq3_adCJ3wikJueS_nDiljA/viewform?embedded=true" width="530" height="1220" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 Sau **2-3 ngày làm việc**, chúng tôi sẽ gửi thông tin chi tiết kèm đường dẫn truy cập vào sách cho bạn.
 
@@ -59,6 +59,8 @@ bạn vui lòng **kiểm tra phần Fee** này để chuyển khoản đủ cho 
 ### Câu hỏi Thường gặp (FAQ)
 
 <dl>
+<dt>Có thể tải cuốn sách này về không?</dt>
+<dd>Không, bạn chỉ có thể đọc trực tuyến tập tin PDF được chia sẻ trên Google Drive.</dd>
 <dt>Mình chỉ mới biết về Python thì có đọc được cuốn này không?</dt>
 <dd>Hoàn toàn được.</dd>
 <dt>Tôi cần trang bị những gì để có thể tiếp thu cuốn sách này trọn vẹn?</dt>
