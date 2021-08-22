@@ -4,7 +4,7 @@ Bạn thân mến,
 
 Cảm ơn bạn đã tin tưởng và ủng hộ cho cuốn sách này. Dưới đây là một vài thông tin bạn cần nắm trước khi bạn thực hiện đặt sách. 
 
-### Thông tin Chung
+### <a name="thong-tin-chung"></a>Thông tin Chung
 
 * Ngày phát hành: **20/08/2021**
 * Hình thức phát hành: **Sách điện tử**
@@ -13,11 +13,11 @@ Cảm ơn bạn đã tin tưởng và ủng hộ cho cuốn sách này. Dưới 
 * Phản hổi cho Cuốn sách: [handson-ml@mlbvn.org](mailto:handson-ml@mlbvn.org)
 * Đánh giá Cuốn sách: [Goodreads](https://www.goodreads.com/book/show/58798645)
 
-### Lộ trình
+### <a name="lo-trinh"></a>Lộ trình
 
 [Xem lộ trình nội dung chi tiết](./roadmap.html).
 
-### Chính sách Giá
+### <a name="chinh-sach-gia"></a>Chính sách Giá
 
 Vì cuốn sách này được thực hiện với mục tiêu cộng đồng, chúng tôi mong muốn cuốn sách có thể đến được với nhiều độc giả hơn. 
 Vì vậy, đây là chính sách giá:
@@ -31,12 +31,12 @@ lúc này bạn hãy cho chúng tôi biết bạn đã đặt tập 1 là đư�
 **Lưu ý:** Hiện tại chỉ mở đăng ký cho tập 1, vui lòng chỉ chuyển khoản đúng chi phí cho tập 1 
 và không gửi chi phí mua cả hai cuốn.
 
-### Quy trình Đặt sách
+### <a name="dat-sach"></a>Quy trình Đặt sách
 
 * Bạn chuyển khoản và điền thông tin vào [biểu mẫu này](https://forms.gle/npLF1U4Xb9EKcesZ8).
 * Sau **2-3 ngày làm việc**, chúng tôi sẽ gửi thông tin chi tiết kèm đường dẫn truy cập vào sách cho bạn.
 
-### Cam kết Bảo mật
+### <a name="bao-mat"></a>Cam kết Bảo mật
 Vì lý do bản quyền, cuốn sách chỉ có thể được **đọc trực tuyến bằng trình đọc PDF trên Google Drive** 
 vào thời điểm hiện tại, rất mong bạn đọc thông cảm. 
 
@@ -47,15 +47,15 @@ là mail dùng cho mục đích chia sẻ sử dụng chung, hoặc những mụ
 * Vui lòng không chia sẻ tài khoản Google mà bạn nhận được sách này cho người khác với mục đích chia sẻ quyền đọc nội dung cuốn sách.
 * Không cố gắng thực hiện việc sao chép, phân bổ các nội dung của cuốn sách lên Internet mà không có sự đồng ý bằng văn bản từ chúng tôi.
 
-### Thông tin Chuyển khoản
-#### Trong nước
+### <a name="thong-tin-ck"></a>Thông tin Chuyển khoản
+#### <a name="trong-nuoc"></a>Trong nước
 
 * Người đại diện: DOAN VO DUY THANH
 * Số tài khoản: 0129 4577 586
 * Ngân hàng TMCP Tiên Phong (TPBank) - Chi nhánh Hồ Chí Minh
 * Nội dung chuyển khoản: HML1 [Họ và tên của bạn] [Tên email] (thay @ bằng at, . bằng dot nếu bạn không thể gõ ký tự này)
 
-#### Quốc tế
+#### <a name="quoc-te"></a>Quốc tế
 
 * Người đại diện: DOAN VO DUY THANH
 * Cổng thanh toán: [Paypal](https://www.paypal.com/paypalme/duythanhvn)
@@ -64,7 +64,7 @@ là mail dùng cho mục đích chia sẻ sử dụng chung, hoặc những mụ
 **Lưu ý:** Paypal có thể tính thêm Fee khi chuyển tiền ở những lựa chọn thanh toán khác nhau (hoặc người phải thanh toán phần Fee), 
 bạn vui lòng **kiểm tra phần Fee** này để chuyển khoản đủ cho chúng tôi trước khi gửi; tránh việc chúng tôi nhận chưa đủ sau khi trừ Fee.
 
-### Câu hỏi Thường gặp (FAQ)
+### <a name="faq"></a>Câu hỏi Thường gặp (FAQ)
 
 <dl>
 <dt>Mình chỉ mới biết về Python thì có đọc được cuốn này không?</dt>
@@ -82,7 +82,7 @@ mặc dù sách sẽ gợi ý bạn một vài nguồn để bạn tự trang b�
 Mong bạn kiên nhẫn với chính mình.</dd>
 </dl>
 
-### Hỗ trợ
+### <a name="ho-tro"></a>Hỗ trợ
 
 Các hỏi đáp & hỗ trợ liên quan đến đặt sách và nội dung sách, độc giả có thể gửi đến 
 địa chỉ [handson-ml@mlbvn.org](mailto:handson-ml@mlbvn.org), 
