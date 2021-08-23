@@ -7,7 +7,7 @@ Cảm ơn bạn đã tin tưởng và ủng hộ cho cuốn sách này. Dưới 
 ## Thông tin Chung
 
 * Ngày phát hành: **20/08/2021**
-* Hình thức phát hành: **Sách điện tử** đọc trực tuyến
+* Hình thức phát hành: **Sách điện tử đọc trực tuyến**
 * Nội dung: [Xem lộ trình nội dung chi tiết](./roadmap.html)
 * Đọc thử: [Xem tại đây](https://drive.google.com/file/d/1y-jjYf_KNPS2DNqjqUmcZjhwUTmEqBKQ/view?usp=sharing)
 * Đánh giá Cuốn sách: [Goodreads](https://www.goodreads.com/book/show/58798645)
@@ -22,7 +22,7 @@ Vì vậy, cuốn sách này có chi phí là **200,000đ ($9)**.
 Bạn chuyển khoản và điền thông tin vào biểu mẫu này.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdczliSUKTMgKzCMiey4P9OtzCLq3_adCJ3wikJueS_nDiljA/viewform?embedded=true?hl=vi" 
-width="100%" height="1170" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+width="100%" height="1400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 Sau **2-3 ngày làm việc**, chúng tôi sẽ gửi thông tin chi tiết kèm đường dẫn truy cập vào sách cho bạn.
 
@@ -76,6 +76,9 @@ tuy nhiên nếu bạn muốn hiểu tường tận thì nên dành thời gian 
 <dd>Cuốn sách này phù hợp khi bạn mong muốn tìm hiểu. Bạn sẽ cần nhiều thời gian hơn để có thể tiếp cận,
 mặc dù sách sẽ gợi ý bạn một vài nguồn để bạn tự trang bị kiến thức về lập trình và toán; hành trình này sẽ không dễ dàng.
 Mong bạn kiên nhẫn với chính mình.</dd>
+<dt>Mình muốn mua tặng người khác có được không?</dt>
+<dd>Được, bạn hãy điền thông tin của người được tặng vào <a href="#quy-trình-đặt-sách">biểu mẫu đặt sách</a>, 
+đồng thời <a href="https://fb.com/mlbvn.group/">nhắn tin cho chúng tôi</a> nhé.</dd>
 </dl>
 
 ### Hỗ trợ
@@ -83,9 +86,6 @@ Mong bạn kiên nhẫn với chính mình.</dd>
 Các hỏi đáp & hỗ trợ liên quan đến đặt sách và nội dung sách, độc giả có thể gửi đến 
 địa chỉ [handson-ml@mlbvn.org](mailto:handson-ml@mlbvn.org), 
 hoặc [Facebook Page của Nhóm dịch thuật](https://fb.com/mlbvn.group/) để chúng tôi có thể hỗ trợ.
-
-Trong trường hợp bạn mua tặng cho người khác, 
-bạn vui lòng điền biểu mẫu theo thông tin của người được tặng.
 
 Ngoài ra, chúng tôi khuyến khích độc giả thảo luận, hỏi đáp, 
 và phản hồi trên [Github Discussions](https://github.com/mlbvn/handson-ml2-vn/discussions).
