@@ -22,7 +22,7 @@ Vì vậy, cuốn sách này có chi phí là **200,000đ ($9)**.
 Bạn chuyển khoản và điền thông tin vào biểu mẫu này.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdczliSUKTMgKzCMiey4P9OtzCLq3_adCJ3wikJueS_nDiljA/viewform?embedded=true?hl=vi" 
-width="100%" height="1170" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+width="100%" height="100%" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 Sau **2-3 ngày làm việc**, chúng tôi sẽ gửi thông tin chi tiết kèm đường dẫn truy cập vào sách cho bạn.
 
