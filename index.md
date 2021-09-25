@@ -19,12 +19,11 @@ chúng tôi hiểu rằng bạn đồng ý với Cam kết Bảo mật từ MLBV
 
 ### Về cung cấp Thông tin
 Hãy cung cấp email:
-* Là email từ Google (đuôi @gmail.com). Nhóm không nhận email từ Yahoo, Outlook, 
-hoặc các nhà cung cấp dịch vụ mail khác.
-* Mail cá nhân với tên thật của bạn được ghi ở trong mail.
 
-{% octicon icon-success height:16 class:"right left" %} Là email từ Google (đuôi @gmail.com). Nhóm không nhận email từ Yahoo, Outlook, 
-hoặc các nhà cung cấp dịch vụ mail khác.
+<img src="./assets/img/do.svg" width="2%"/> Là email từ Google (đuôi @gmail.com). 
+Nhóm không nhận email từ Yahoo, Outlook, hoặc các nhà cung cấp dịch vụ mail khác.
+<img src="./assets/img/do.svg" width="2%"/> Mail cá nhân với tên thật của bạn được 
+ghi ở trong mail.
 
 Không cung cấp:
 * Email thuộc sở hữu từ công ty, tổ chức, trường học.
