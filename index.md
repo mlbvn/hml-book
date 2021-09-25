@@ -21,17 +21,19 @@ chúng tôi hiểu rằng bạn đồng ý với Cam kết Bảo mật từ MLBV
 Hãy cung cấp email:
 
 <img src="./assets/img/do.svg" width="2%"/> Là email từ Google (đuôi @gmail.com). 
-Nhóm không nhận email từ Yahoo, Outlook, hoặc các nhà cung cấp dịch vụ mail khác.
+Nhóm không nhận email từ Yahoo, Outlook, hoặc các nhà cung cấp dịch vụ mail khác.<br/>
 <img src="./assets/img/do.svg" width="2%"/> Mail cá nhân với tên thật của bạn được 
 ghi ở trong mail.
 
 Không cung cấp:
-* Email thuộc sở hữu từ công ty, tổ chức, trường học.
-* Là email từ Google (đuôi @gmail.com). Nhóm không nhận email từ Yahoo, Outlook, 
-hoặc các nhà cung cấp dịch vụ mail khác.
-* Email này là địa chỉ group mail dùng cho nhóm hoặc tổ chức.
-* Email có tên không rõ ý nghĩa hoặc có khả năng là mail dùng chung, 
-nằm ngoài phạm vi sử dụng cá nhân.
+<img src="./assets/img/dont.svg" width="2%"/> Email thuộc sở hữu từ công ty, 
+tổ chức, trường học.<br/>
+<img src="./assets/img/dont.svg" width="2%"/> Là email từ Google (đuôi @gmail.com). 
+Nhóm không nhận email từ Yahoo, Outlook, hoặc các nhà cung cấp dịch vụ mail khác.<br/>
+<img src="./assets/img/dont.svg" width="2%"/> Email này là địa chỉ group mail dùng 
+cho nhóm hoặc tổ chức.<br/>
+<img src="./assets/img/dont.svg" width="2%"/> Email có tên không rõ ý nghĩa hoặc có 
+khả năng là mail dùng chung, nằm ngoài phạm vi sử dụng cá nhân.
 
 Để hiểu hơn, vui lòng nhìn hình minh họa ở phía dưới
 
@@ -39,16 +41,23 @@ nằm ngoài phạm vi sử dụng cá nhân.
 
 ### Về quyền Sử dụng sách
 Bạn được:
-* Đọc sách dưới định dạng được cung cấp.
-* Sử dụng nội dung sách cho mục đích học tập, nghiên cứu.
+
+<img src="./assets/img/do.svg" width="2%"/> Đọc sách dưới định dạng được cung cấp.<br/>
+<img src="./assets/img/do.svg" width="2%"/> Sử dụng nội dung sách cho mục đích học 
+tập, nghiên cứu.
 
 Bạn không được:
-* Cố gắng thực hiện việc sao chép, lữu trữ, phát tán, phân bổ tệp tin và các nội dung 
-của cuốn sách lên Internet mà không có sự đồng thuận bằng văn bản từ MLBVN.
-* Chia sẻ tệp tin sách bạn nhận được cho người khác.
-* Chuyển đổi sang dạng tệp tin khác nhằm xóa bỏ DRM mặc định.
-* Tìm cách xóa bỏ Watermark từ tệp tin sách mà chúng tôi cung cấp.
-* In ấn cuốn sách (với bất kỳ mục đích gì).
+
+<img src="./assets/img/dont.svg" width="2%"/> Cố gắng thực hiện việc sao chép, lữu trữ, 
+phát tán, phân bổ tệp tin và các nội dung của cuốn sách lên Internet mà không có sự đồng 
+thuận bằng văn bản từ MLBVN.<br/>
+<img src="./assets/img/dont.svg" width="2%"/> Chia sẻ tệp tin sách bạn nhận được cho 
+người khác.<br/>
+<img src="./assets/img/dont.svg" width="2%"/> Chuyển đổi sang dạng tệp tin khác nhằm xóa bỏ 
+DRM mặc định.<br/>
+<img src="./assets/img/dont.svg" width="2%"/> Tìm cách xóa bỏ Watermark từ tệp tin sách mà 
+chúng tôi cung cấp.<br/>
+<img src="./assets/img/dont.svg" width="2%"/> In ấn cuốn sách (với bất kỳ mục đích gì).
 
 ## Đặt sách
 
