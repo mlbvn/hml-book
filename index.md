@@ -29,8 +29,6 @@ Không cung cấp:
 
 <img src="./assets/img/dont.svg" width="3%"/> Email thuộc sở hữu từ công ty, 
 tổ chức, trường học.<br/>
-<img src="./assets/img/dont.svg" width="3%"/> Là email từ Google (đuôi @gmail.com). 
-Nhóm không nhận email từ Yahoo, Outlook, hoặc các nhà cung cấp dịch vụ mail khác.<br/>
 <img src="./assets/img/dont.svg" width="3%"/> Email này là địa chỉ group mail dùng 
 cho nhóm hoặc tổ chức.<br/>
 <img src="./assets/img/dont.svg" width="3%"/> Email có tên không rõ ý nghĩa hoặc có 
@@ -63,7 +61,10 @@ chúng tôi cung cấp.<br/>
 ## Đặt sách
 
 Vì cuốn sách này được thực hiện với mục tiêu cộng đồng, chúng tôi mong muốn cuốn sách 
-có thể đến được với nhiều độc giả hơn. Vì vậy, cuốn sách này có chi phí là **200,000đ ($9)**.
+có thể đến được với nhiều độc giả hơn. Tập 1 hiện tại có chi phí là **200,000đ ($9)**.
+
+<!--Mức chi phí giao động từ **200,000đ ($9) – 400,000đ (~$15)**.
+Cụ thể chi phí được để trong Biểu mẫu đặt sách.-->
 
 <a href="./form.html"><img src="./assets/img/order-b.png" width="30%"/></a>
 <a href="https://drive.google.com/file/d/1y-jjYf_KNPS2DNqjqUmcZjhwUTmEqBKQ/view?usp=sharing">
