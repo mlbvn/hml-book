@@ -23,7 +23,8 @@ Hãy cung cấp email:
 hoặc các nhà cung cấp dịch vụ mail khác.
 * Mail cá nhân với tên thật của bạn được ghi ở trong mail.
 
-{% octicon check-circle-fill height:16 %} 0192849
+{% octicon check-circle-fill height:16 %}Là email từ Google (đuôi @gmail.com). Nhóm không nhận email từ Yahoo, Outlook, 
+hoặc các nhà cung cấp dịch vụ mail khác.
 
 Không cung cấp:
 * Email thuộc sở hữu từ công ty, tổ chức, trường học.
