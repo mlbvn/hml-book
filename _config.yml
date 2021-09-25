@@ -4,3 +4,6 @@ description: Một dự án của MLBVN Group
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-octicons

@@ -1,87 +1,88 @@
-![](/assets/img/cover.png)
+![](/assets/img/cover.jpg)
 
 Bạn thân mến,
 
-Cảm ơn bạn đã tin tưởng và ủng hộ cho cuốn sách này. Dưới đây là một vài thông tin bạn cần nắm trước khi bạn thực hiện đặt sách. 
+Cảm ơn bạn đã tin tưởng và ủng hộ cho cuốn sách này. 
+Dưới đây là một vài thông tin bạn cần nắm trước khi bạn thực hiện đặt sách.
 
 ## Thông tin Chung
 
 * Ngày phát hành: **20/08/2021**
-* Hình thức phát hành: **Sách điện tử đọc trực tuyến**
+* Hình thức phát hành: **Sách điện tử**.
 * Nội dung: [Xem lộ trình nội dung chi tiết](./roadmap.html)
-* Đọc thử: [Xem tại đây](https://drive.google.com/file/d/1y-jjYf_KNPS2DNqjqUmcZjhwUTmEqBKQ/view?usp=sharing)
 * Đánh giá Cuốn sách: [Goodreads](https://www.goodreads.com/book/show/58798645)
+
+## Cam kết Bảo mật
+Cuốn sách này được MLBVN Group cho phép độc giả tải về và đọc trên thiết bị cá nhân.
+Hãy đảm bảo bạn đọc kỹ và đồng thuận với những thông tin này. Bằng việc đặt mua cuốn sách, 
+chúng tôi hiểu rằng bạn đồng ý với Cam kết Bảo mật từ MLBVN.
+
+### Về cung cấp Thông tin
+Hãy cung cấp email:
+* Là email từ Google (đuôi @gmail.com). Nhóm không nhận email từ Yahoo, Outlook, 
+hoặc các nhà cung cấp dịch vụ mail khác.
+* Mail cá nhân với tên thật của bạn được ghi ở trong mail.
+
+{% octicon check-circle-fill height:16 %} 0192849
+
+Không cung cấp:
+* Email thuộc sở hữu từ công ty, tổ chức, trường học.
+* Là email từ Google (đuôi @gmail.com). Nhóm không nhận email từ Yahoo, Outlook, 
+hoặc các nhà cung cấp dịch vụ mail khác.
+* Email này là địa chỉ group mail dùng cho nhóm hoặc tổ chức.
+* Email có tên không rõ ý nghĩa hoặc có khả năng là mail dùng chung, 
+nằm ngoài phạm vi sử dụng cá nhân.
+
+Để hiểu hơn, vui lòng nhìn hình minh họa ở phía dưới
+
+![](/assets/img/valid-mail.png)
+
+### Về quyền Sử dụng sách
+Bạn được:
+* Đọc sách dưới định dạng được cung cấp.
+* Sử dụng nội dung sách cho mục đích học tập, nghiên cứu.
+
+Bạn không được:
+* Cố gắng thực hiện việc sao chép, lữu trữ, phát tán, phân bổ tệp tin và các nội dung 
+của cuốn sách lên Internet mà không có sự đồng thuận bằng văn bản từ MLBVN.
+* Chia sẻ tệp tin sách bạn nhận được cho người khác.
+* Chuyển đổi sang dạng tệp tin khác nhằm xóa bỏ DRM mặc định.
+* Tìm cách xóa bỏ Watermark từ tệp tin sách mà chúng tôi cung cấp.
+* In ấn cuốn sách (với bất kỳ mục đích gì).
 
 ## Đặt sách
 
-Vì cuốn sách này được thực hiện với mục tiêu cộng đồng, chúng tôi mong muốn cuốn sách có thể đến được với nhiều độc giả hơn. 
-Vì vậy, cuốn sách này có chi phí là **200,000đ ($9)**.
+Vì cuốn sách này được thực hiện với mục tiêu cộng đồng, chúng tôi mong muốn cuốn sách 
+có thể đến được với nhiều độc giả hơn. Vì vậy, cuốn sách này có chi phí là **200,000đ ($9)**.
 
-### Quy trình Đặt sách
+<a href="./form.html"><img src="./assets/img/order-b.png" width="30%"/></a>
+<a href="https://drive.google.com/file/d/1y-jjYf_KNPS2DNqjqUmcZjhwUTmEqBKQ/view?usp=sharing">
+<img src="./assets/img/sample-b.png" width="30%"/></a>
 
-Bạn chuyển khoản và điền thông tin vào biểu mẫu này.
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdczliSUKTMgKzCMiey4P9OtzCLq3_adCJ3wikJueS_nDiljA/viewform?embedded=true?hl=vi" 
-width="100%" height="1400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-Sau **2-3 ngày làm việc**, chúng tôi sẽ gửi thông tin chi tiết kèm đường dẫn truy cập vào sách cho bạn.
-
-### Thông tin Chuyển khoản
-#### Trong nước
-
-* Người đại diện: DOAN VO DUY THANH
-* Số tài khoản: 0129 4577 586
-* Ngân hàng TMCP Tiên Phong (TPBank) - Chi nhánh Hồ Chí Minh
-* Nội dung chuyển khoản: HML1 [Họ và tên của bạn] [Tên email] (thay @ bằng at, . bằng dot nếu bạn không thể gõ ký tự này)
-
-#### Quốc tế
-
-* Người đại diện: DOAN VO DUY THANH
-* Cổng thanh toán: [Paypal](https://www.paypal.com/paypalme/duythanhvn)
-* Nội dung chuyển khoản: HML1 [Họ và tên của bạn] [Tên email]
-
-### Cam kết Bảo mật
-Vì lý do bản quyền và quy định phát hành, cuốn sách chỉ có thể được **đọc trực tuyến tập PDF trên Google Drive** 
-vào thời điểm hiện tại, không tải về, không chia sẻ, không in ấn; rất mong độc giả hiểu cho quyết định này.
-
-Trong tương lai, chúng tôi hy vọng có thể thay đổi và mang lại trải nghiệm đọc tốt hơn.
-
-Chúng tôi có một số điểm mong muốn được thoả thuận với bạn khi nhận cuốn sách này, cụ thể là:
-
-* Vui lòng không cung cấp email công ty, tổ chức, group mail, và mail có tên không rõ ý nghĩa hoặc có thể nhận thấy 
-là mail dùng cho mục đích chia sẻ sử dụng chung, hoặc những mục đích khác nằm ngoài giới hạn sử dụng cá nhân,...
-* Vui lòng không chia sẻ tài khoản Google mà bạn nhận được sách này cho người khác với mục đích chia sẻ quyền đọc nội dung cuốn sách.
-* Không cố gắng thực hiện việc sao chép, phân bổ các nội dung của cuốn sách lên Internet mà không có sự đồng ý bằng văn bản từ chúng tôi.
-
-### Câu hỏi Thường gặp (FAQ)
+## Câu hỏi Thường gặp (FAQ)
 
 <dl>
 <dt>Có thể tải cuốn sách này về không?</dt>
-<dd>Không, bạn chỉ có thể đọc trực tuyến tập tin PDF được chia sẻ trên Google Drive.</dd>
+<dd>Được, bạn có thể tải bản PDF của cuốn sách này. Tuy nhiên, hãy đảm bảo rằng bạn đã đọc kỹ 
+<b><a href="#cam-ket-bao-mat">Cam kết Bảo mật</a></b> từ chúng tôi.</dd>
 <dt>Cuốn sách này có bản in cứng không?</dt>
-<dd>Không, chúng tôi chưa có kế hoạch cho một bản in. Trong tương lai có thể có.</dd>
-<dt>Mình đã chuyển khoản ngày ... nhưng chưa nhận được?</dt>
-<dd>Có thể bạn chưa điền biểu mẫu ở trên, nếu bạn đã điền thì có thể chúng tôi chưa nhận được chuyển khoản
-hoặc chúng tôi chưa xử lý đến. Bạn vui lòng <a href="#ho-tro">liên hệ chúng tôi</a> để chúng tôi kiểm tra tình trạng đơn hàng giúp bạn nhé.</dd>
-<dt>Mình chỉ mới biết về Python thì có đọc được cuốn này không?</dt>
-<dd>Hoàn toàn được.</dd>
+<dd>Không, hiện tại chúng tôi chưa có kế hoạch cho một bản in. Trong tương lai có thể có.</dd>
+<dt>Khi nào sẽ có Tập 2 của cuốn sách này?</dt>
+<dd>Dự kiến, Tập 2 của cuốn sách này có thể được phát hành vào đầu năm 2022.</dd>
 <dt>Tôi cần trang bị những gì để có thể tiếp thu cuốn sách này trọn vẹn?</dt>
 <dd>Bạn cần có kinh nghiệp lập trình Python và đã có kinh nghiệm sử dụng các thư viện khoa học của Python,
 ở đây cụ thể là NumPy, Pandas, và Matplotlib. Đồng thời, nếu bạn  quan tâm đến các kiến thức nền tảng, 
 bạn cần kha khá kiến thức toán đại học như giải tích, đại số tuyến tính, xác suất và thống kê.</dd>
-<dt>Mình đang nắm không vững về toán, mình nên làm gì?</dt>
-<dd>Cuốn sách có những phần kiến thức bổ sung để giúp bạn tiếp cận cuốn sách dễ dàng hơn, 
-tuy nhiên nếu bạn muốn hiểu tường tận thì nên dành thời gian để học kỹ hơn về Toán.</dd>
 <dt>Mình chưa từng bắt tay vào lập trình, có một chút ít kiến thức về toán, liệu có phù hợp để đọc không?</dt>
 <dd>Cuốn sách này phù hợp khi bạn mong muốn tìm hiểu. Bạn sẽ cần nhiều thời gian hơn để có thể tiếp cận,
-mặc dù sách sẽ gợi ý bạn một vài nguồn để bạn tự trang bị kiến thức về lập trình và toán; hành trình này sẽ không dễ dàng.
-Mong bạn kiên nhẫn với chính mình.</dd>
+mặc dù sách sẽ gợi ý bạn một vài nguồn để bạn tự trang bị kiến thức về lập trình và toán; 
+hành trình này sẽ không dễ dàng. Mong bạn kiên nhẫn với chính mình.</dd>
 <dt>Mình muốn mua tặng người khác có được không?</dt>
-<dd>Được, bạn hãy điền thông tin của người được tặng vào <a href="#quy-trinh-dat-sach">biểu mẫu đặt sách</a>, 
+<dd>Được, bạn hãy điền thông tin của người được tặng vào <a href="#dat-sach">biểu mẫu đặt sách</a>, 
 đồng thời <a href="https://fb.com/mlbvn.group/">nhắn tin cho chúng tôi</a> nhé.</dd>
 </dl>
 
-### Hỗ trợ
+## Hỗ trợ
 
 Các hỏi đáp & hỗ trợ liên quan đến đặt sách và nội dung sách, độc giả có thể gửi đến 
 địa chỉ [handson-ml@mlbvn.org](mailto:handson-ml@mlbvn.org), 
