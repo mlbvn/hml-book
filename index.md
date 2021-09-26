@@ -7,10 +7,10 @@ Dưới đây là một vài thông tin bạn cần nắm trước khi bạn th�
 
 ## Thông tin Chung
 
-* Ngày phát hành: **20/08/2021**
-* Hình thức phát hành: **Sách điện tử**.
-* Nội dung: [Xem lộ trình nội dung chi tiết](./roadmap.html)
-* Đánh giá Cuốn sách: [Goodreads](https://www.goodreads.com/book/show/58798645)
+| Ngày phát hành      | **20/08/2021** |
+|---------------------|----------------|
+| Hình thức phát hành | Sách điện tử   |
+| Nội dung | [Xem lộ trình nội dung chi tiết](./roadmap.html) |
 
 ## Cam kết Bảo mật
 Cuốn sách này được MLBVN Group cho phép độc giả tải về và đọc trên thiết bị cá nhân.
@@ -47,7 +47,7 @@ tập, nghiên cứu.
 
 Bạn không được:
 
-<img src="./assets/img/dont.svg" width="3%"/> Cố gắng thực hiện việc sao chép, lữu trữ, 
+<img src="./assets/img/dont.svg" width="3%"/> Cố gắng thực hiện việc sao chép, lưu trữ, 
 phát tán, phân bổ tệp tin và các nội dung của cuốn sách lên Internet mà không có sự đồng 
 thuận bằng văn bản từ MLBVN.<br/>
 <img src="./assets/img/dont.svg" width="3%"/> Chia sẻ tệp tin sách bạn nhận được cho 
@@ -69,6 +69,8 @@ Cụ thể chi phí được để trong Biểu mẫu đặt sách.-->
 <a href="./form.html"><img src="./assets/img/order-b.png" width="30%"/></a>
 <a href="https://drive.google.com/file/d/1y-jjYf_KNPS2DNqjqUmcZjhwUTmEqBKQ/view?usp=sharing">
 <img src="./assets/img/sample-b.png" width="30%"/></a>
+<a href="https://www.goodreads.com/book/show/58798645">
+<img src="./assets/img/review-b.png" width="30%"/></a>
 
 ## Câu hỏi Thường gặp (FAQ)
 
