@@ -1,6 +1,6 @@
-### Lộ trình
+# Lộ trình Nội dung
 
-![](/assets/img/roadmap-cover.jpg)
+![](/assets/img/roadmap-cover.png)
 
 Trong Tập 1 - **Kiến thức Nền tảng về Học Máy** - chúng tôi đề cập 
 đến các chủ đề sau:
