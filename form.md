@@ -1,6 +1,6 @@
 # Đặt sách
 
-![](/assets/img/form-cover.jpg)
+![](/assets/img/form-cover-volume-1.jpg)
 
 **[Quay lại](./)**
 

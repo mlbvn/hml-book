@@ -7,10 +7,11 @@ Dưới đây là một vài thông tin bạn cần nắm trước khi bạn th�
 
 ## Thông tin Chung
 
-| Ngày phát hành      | **20/08/2021** |
-|---------------------|----------------|
-| Hình thức phát hành | Sách điện tử   |
-| Nội dung | [Xem lộ trình nội dung chi tiết](./roadmap.html) |
+| Phát hành Tập 1         | **20/08/2021**                  |
+|-------------------------|---------------------------------|
+| Dự kiến Phát hành Tập 2 | Đầu năm 2022                    |
+| Hình thức phát hành     | Sách điện tử                    |
+| Lộ trình Nội dung       | [Xem chi tiết](./lo-trinh.html) |
 
 ## Cam kết Bảo mật
 Cuốn sách này được MLBVN Group cho phép độc giả tải về và đọc trên thiết bị cá nhân.
