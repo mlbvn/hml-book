@@ -81,8 +81,6 @@ Cụ thể chi phí được để trong Biểu mẫu đặt sách.-->
 <b><a href="#cam-ket-bao-mat">Cam kết Bảo mật</a></b> từ chúng tôi.</dd>
 <dt>Cuốn sách này có bản in cứng không?</dt>
 <dd>Không, hiện tại chúng tôi chưa có kế hoạch cho một bản in. Trong tương lai có thể có.</dd>
-<dt>Khi nào sẽ có Tập 2 của cuốn sách này?</dt>
-<dd>Dự kiến, Tập 2 của cuốn sách này có thể được phát hành vào đầu năm 2022.</dd>
 <dt>Tôi cần trang bị những gì để có thể tiếp thu cuốn sách này trọn vẹn?</dt>
 <dd>Bạn cần có kinh nghiệp lập trình Python và đã có kinh nghiệm sử dụng các thư viện khoa học của Python,
 ở đây cụ thể là NumPy, Pandas, và Matplotlib. Đồng thời, nếu bạn  quan tâm đến các kiến thức nền tảng, 
