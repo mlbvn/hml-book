@@ -9,8 +9,10 @@ Dưới đây là một vài thông tin bạn cần nắm trước khi bạn th�
 
 | Phát hành Tập 1         | **20/08/2021**                  |
 |-------------------------|---------------------------------|
+| Số trang Tập 1          | 284                             |
 | Dự kiến Phát hành Tập 2 | Đầu năm 2022                    |
 | Hình thức phát hành     | Sách điện tử                    |
+| Định dạng sách          | PDF                             |
 | Lộ trình Nội dung       | [Xem chi tiết](./lo-trinh.html) |
 
 ## Cam kết Bảo mật
@@ -90,15 +92,15 @@ bạn cần kha khá kiến thức toán đại học như giải tích, đại 
 mặc dù sách sẽ gợi ý bạn một vài nguồn để bạn tự trang bị kiến thức về lập trình và toán; 
 hành trình này sẽ không dễ dàng. Mong bạn kiên nhẫn với chính mình.</dd>
 <dt>Mình muốn mua tặng người khác có được không?</dt>
-<dd>Được, bạn hãy điền thông tin của người được tặng vào <a href="#dat-sach">biểu mẫu đặt sách</a>, 
-đồng thời <a href="https://fb.com/mlbvn.group/">nhắn tin cho chúng tôi</a> nhé.</dd>
+<dd>Được, bạn hãy điền thông tin của người được tặng vào <a href="./form.html">biểu mẫu đặt sách</a>, 
+đồng thời <a href="https://fb.com/mlbvn.org/">nhắn tin cho chúng tôi</a> nhé.</dd>
 </dl>
 
 ## Hỗ trợ
 
 Các hỏi đáp & hỗ trợ liên quan đến đặt sách và nội dung sách, độc giả có thể gửi đến 
 địa chỉ [handson-ml@mlbvn.org](mailto:handson-ml@mlbvn.org), 
-hoặc [Facebook Page của Nhóm dịch thuật](https://fb.com/mlbvn.group/) để chúng tôi có thể hỗ trợ.
+hoặc [Facebook Page của Nhóm dịch thuật](https://fb.com/mlbvn.org/) để chúng tôi có thể hỗ trợ.
 
 Ngoài ra, chúng tôi khuyến khích độc giả thảo luận, hỏi đáp, 
 và phản hồi trên [Github Discussions](https://github.com/mlbvn/handson-ml2-vn/discussions).
