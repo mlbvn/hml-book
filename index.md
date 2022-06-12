@@ -10,7 +10,7 @@ Dưới đây là một vài thông tin bạn cần nắm trước khi bạn th�
 | Phát hành Tập 1         | **20/08/2021**                  |
 |-------------------------|---------------------------------|
 | Số trang Tập 1          | 284                             |
-| Dự kiến Phát hành Tập 2 | Đầu Quý III, năm 2022           |
+| Dự kiến Phát hành Tập 2 | Quý III, năm 2022               |
 | Hình thức phát hành     | Sách điện tử                    |
 | Định dạng sách          | PDF                             |
 | Lộ trình Nội dung       | [Xem chi tiết](./lo-trinh.html) |
@@ -64,10 +64,7 @@ chúng tôi cung cấp.<br/>
 ## Đặt sách
 
 Vì cuốn sách này được thực hiện với mục tiêu cộng đồng, chúng tôi mong muốn cuốn sách 
-có thể đến được với nhiều độc giả hơn. Tập 1 hiện tại có chi phí là **200,000đ ($9)**.
-
-<!--Mức chi phí giao động từ **200,000đ ($9) – 400,000đ (~$15)**.
-Cụ thể chi phí được để trong Biểu mẫu đặt sách.-->
+có thể đến được với nhiều độc giả hơn. Tập 1 hiện tại có chi phí là **200,000đ ($9,4)**.
 
 <a href="./form.html"><img src="./assets/img/order-b.png" width="30%"/></a>
 <a href="https://drive.google.com/file/d/1y-jjYf_KNPS2DNqjqUmcZjhwUTmEqBKQ/view?usp=sharing">
