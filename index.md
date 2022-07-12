@@ -10,7 +10,7 @@ Dưới đây là một vài thông tin bạn cần nắm trước khi bạn th�
 | Phát hành Tập 1         | **20/08/2021**                  |
 |-------------------------|---------------------------------|
 | Số trang Tập 1          | 284                             |
-| Dự kiến Phát hành Tập 2 | Quý III, năm 2022               |
+| Dự kiến Phát hành Tập 2 | Quý IV, năm 2022               |
 | Hình thức phát hành     | Sách điện tử                    |
 | Định dạng sách          | PDF                             |
 | Lộ trình Nội dung       | [Xem chi tiết](./lo-trinh.html) |
@@ -66,7 +66,8 @@ chúng tôi cung cấp.<br/>
 Vì cuốn sách này được thực hiện với mục tiêu cộng đồng, chúng tôi mong muốn cuốn sách 
 có thể đến được với nhiều độc giả hơn. Tập 1 hiện tại có chi phí là **200,000đ ($9,4)**.
 
-<a href="./form.html"><img src="./assets/img/order-b.png" width="30%"/></a>
+<a href="https://forms.gle/eSofB1Aj4FtYqCq99">
+<img src="./assets/img/order-b.png" width="30%"/></a>
 <a href="https://drive.google.com/file/d/1y-jjYf_KNPS2DNqjqUmcZjhwUTmEqBKQ/view?usp=sharing">
 <img src="./assets/img/sample-b.png" width="30%"/></a>
 <a href="https://www.goodreads.com/book/show/58798645">
@@ -80,23 +81,33 @@ có thể đến được với nhiều độc giả hơn. Tập 1 hiện tại 
 <b><a href="#cam-ket-bao-mat">Cam kết Bảo mật</a></b> từ chúng tôi.</dd>
 <dt>Cuốn sách này có bản in cứng không?</dt>
 <dd>Không, hiện tại chúng tôi chưa có kế hoạch cho một bản in. Trong tương lai có thể có.</dd>
+<dt>Bao lâu thì tôi nhận được sách?</dt>
+<dd>Bạn sẽ nhận được sách sau 2-3 ngày kể từ ngày bạn hoàn tất thủ tục mua sách, bao gồm: hoàn tất
+<a href="https://forms.gle/eSofB1Aj4FtYqCq99">biểu mẫu đặt sách</a> và chuyển khoản thành công. 
+Nếu bạn chuyển khoản vào những ngày cuối tuần (từ thứ 6 đến hết Chủ nhật), việc nhận chuyển khoản có thể
+sẽ lâu hơn dự kiến. Vì vậy, thời gian trên là ước lượng. Nếu có bất kỳ câu hỏi nào về quá trình xử lý
+đơn của mình, bạn vui lòng <a href="https://fb.com/mlbvn.org/">nhắn tin cho chúng tôi</a> nhé.</dd>
+<dt>Tôi đã hoàn tất mọi thủ tục, nhưng vẫn chưa nhận được sách sau thời gian chờ?</dt>
+<dd>Nếu bạn chưa nhận được email, hãy giúp chúng tôi tìm kiếm: ở mục All Mail (Tất cả Thư), ở Promotions, 
+Social, Updates, Forums, và Spam; Hoặc tìm kiếm qua email <a href="mailto:support@mlbvn.org">support@mlbvn.org</a>. 
+Nếu bạn tìm không thấy, bạn vui lòng <a href="https://fb.com/mlbvn.org/">nhắn tin cho chúng tôi</a> nhé.</dd>
 <dt>Tôi cần trang bị những gì để có thể tiếp thu cuốn sách này trọn vẹn?</dt>
 <dd>Bạn cần có kinh nghiệp lập trình Python và đã có kinh nghiệm sử dụng các thư viện khoa học của Python,
 ở đây cụ thể là NumPy, Pandas, và Matplotlib. Đồng thời, nếu bạn  quan tâm đến các kiến thức nền tảng, 
 bạn cần kha khá kiến thức toán đại học như giải tích, đại số tuyến tính, xác suất và thống kê.</dd>
-<dt>Mình chưa từng bắt tay vào lập trình, có một chút ít kiến thức về toán, liệu có phù hợp để đọc không?</dt>
+<dt>Tôi chưa từng bắt tay vào lập trình, có một chút ít kiến thức về toán, liệu có phù hợp để đọc không?</dt>
 <dd>Cuốn sách này phù hợp khi bạn mong muốn tìm hiểu. Bạn sẽ cần nhiều thời gian hơn để có thể tiếp cận,
 mặc dù sách sẽ gợi ý bạn một vài nguồn để bạn tự trang bị kiến thức về lập trình và toán; 
 hành trình này sẽ không dễ dàng. Mong bạn kiên nhẫn với chính mình.</dd>
-<dt>Mình muốn mua tặng người khác có được không?</dt>
-<dd>Được, bạn hãy điền thông tin của người được tặng vào <a href="./form.html">biểu mẫu đặt sách</a>, 
-đồng thời <a href="https://fb.com/mlbvn.org/">nhắn tin cho chúng tôi</a> nhé.</dd>
+<dt>Tôi muốn mua tặng người khác có được không?</dt>
+<dd>Được, bạn hãy điền thông tin của người được tặng vào <a href="https://forms.gle/eSofB1Aj4FtYqCq99">biểu mẫu 
+đặt sách</a>, đồng thời <a href="https://fb.com/mlbvn.org/">nhắn tin cho chúng tôi</a> nhé.</dd>
 </dl>
 
 ## Hỗ trợ
 
 Các hỏi đáp & hỗ trợ liên quan đến đặt sách và nội dung sách, độc giả có thể gửi đến 
-địa chỉ [handson-ml@mlbvn.org](mailto:handson-ml@mlbvn.org), 
+địa chỉ <a href="mailto:support@mlbvn.org?subject=HML - Thắc mắc từ độc giả">support@mlbvn.org</a>, 
 hoặc [Facebook Page của Nhóm dịch thuật](https://fb.com/mlbvn.org/) để chúng tôi có thể hỗ trợ.
 
 Ngoài ra, chúng tôi khuyến khích độc giả thảo luận, hỏi đáp, 
