@@ -10,7 +10,7 @@ Dưới đây là một vài thông tin bạn cần nắm trước khi bạn th�
 | Phát hành Tập 1         | **20/08/2021**                  |
 |-------------------------|---------------------------------|
 | Số trang Tập 1          | 284                             |
-| Dự kiến Phát hành Tập 2 | Quý IV, năm 2022               |
+| Phát hành Tập 2         | Quý I, năm 2023                 |
 | Hình thức phát hành     | Sách điện tử                    |
 | Định dạng sách          | PDF                             |
 | Lộ trình Nội dung       | [Xem chi tiết](./lo-trinh.html) |
