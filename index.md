@@ -1,4 +1,4 @@
-![](/assets/img/cover.jpg)
+![](/assets/img/cover-23.jpg)
 
 Bạn thân mến,
 
@@ -7,13 +7,15 @@ Dưới đây là một vài thông tin bạn cần nắm trước khi bạn th�
 
 ## Thông tin Chung
 
-| Phát hành Tập 1         | **20/08/2021**                  |
-|-------------------------|---------------------------------|
-| Số trang Tập 1          | 284                             |
-| Phát hành Tập 2         | Quý I, năm 2023                 |
-| Hình thức phát hành     | Sách điện tử                    |
-| Định dạng sách          | PDF                             |
-| Lộ trình Nội dung       | [Xem chi tiết](./lo-trinh.html) |
+| Thông tin | Tập 1 | Tập 2 |
+|-----------|-------|-------|
+| Ngày phát hành | 20/08/2021 | 25/05/2023 |
+| Số trang | 284 trang | 485 trang |
+| Hình thức phát hành | Sách điện tử | Sách điện tử |
+| Định dạng sách | PDF (DRM) | PDF (DRM) |
+
+### Lộ trình Nội dung
+[Xem chi tiết](./lo-trinh.html)
 
 ## Cam kết Bảo mật
 Cuốn sách này được MLBVN Group cho phép độc giả tải về và đọc trên thiết bị cá nhân.
@@ -63,15 +65,17 @@ chúng tôi cung cấp.<br/>
 
 ## Đặt sách
 
-Vì cuốn sách này được thực hiện với mục tiêu cộng đồng, chúng tôi mong muốn cuốn sách 
-có thể đến được với nhiều độc giả hơn. Tập 1 hiện tại có chi phí là **200,000đ ($9,4)**.
+| Chi phí | Tập 1 | Tập 2 | Cả hai |
+|---------|-------|-------|--------|
+| Giá bán lẻ | 200,000đ ($9,99) | 200,000đ ($9,99)  | 400,000đ ($18,99) |
+| Giá ưu đãi | 200,000đ ($9,99) | 150,000đ ($7,99)* | 350,000đ ($15,99) |
 
-<a href="https://forms.gle/eSofB1Aj4FtYqCq99">
+**Giá ưu đãi chỉ áp dụng cho những độc giả đã mua Tập 1*.
+
+<a href="https://forms.gle/j9y3jxNRdn5Q86H49">
 <img src="./assets/img/order-b.png" width="30%"/></a>
-<a href="https://drive.google.com/file/d/1y-jjYf_KNPS2DNqjqUmcZjhwUTmEqBKQ/view?usp=sharing">
+<a href="https://drive.google.com/drive/folders/1yGZX60xj9GiYBV1wCGGJCWIIu3Usb4K4?usp=sharing">
 <img src="./assets/img/sample-b.png" width="30%"/></a>
-<a href="https://www.goodreads.com/book/show/58798645">
-<img src="./assets/img/review-b.png" width="30%"/></a>
 
 ## Câu hỏi Thường gặp (FAQ)
 
@@ -80,7 +84,7 @@ có thể đến được với nhiều độc giả hơn. Tập 1 hiện tại 
 <dd>Được, bạn có thể tải bản PDF của cuốn sách này. Tuy nhiên, hãy đảm bảo rằng bạn đã đọc kỹ 
 <b><a href="#cam-ket-bao-mat">Cam kết Bảo mật</a></b> từ chúng tôi.</dd>
 <dt>Cuốn sách này có bản in cứng không?</dt>
-<dd>Không, hiện tại chúng tôi chưa có kế hoạch cho một bản in. Trong tương lai có thể có.</dd>
+<dd>Không, hiện tại chúng tôi chưa có kế hoạch cho một bản in.</dd>
 <dt>Bao lâu thì tôi nhận được sách?</dt>
 <dd>Bạn sẽ nhận được sách sau 2-3 ngày kể từ ngày bạn hoàn tất thủ tục mua sách, bao gồm: hoàn tất
 <a href="https://forms.gle/eSofB1Aj4FtYqCq99">biểu mẫu đặt sách</a> và chuyển khoản thành công. 
@@ -101,7 +105,7 @@ mặc dù sách sẽ gợi ý bạn một vài nguồn để bạn tự trang b�
 hành trình này sẽ không dễ dàng. Mong bạn kiên nhẫn với chính mình.</dd>
 <dt>Tôi muốn mua tặng người khác có được không?</dt>
 <dd>Được, bạn hãy điền thông tin của người được tặng vào <a href="https://forms.gle/eSofB1Aj4FtYqCq99">biểu mẫu 
-đặt sách</a>, đồng thời <a href="https://fb.com/mlbvn.org/">nhắn tin cho chúng tôi</a> nhé.</dd>
+đặt sách</a> nhé.</dd>
 </dl>
 
 ## Hỗ trợ
