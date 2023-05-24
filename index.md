@@ -85,12 +85,17 @@ chúng tôi cung cấp.<br/>
 <b><a href="#cam-ket-bao-mat">Cam kết Bảo mật</a></b> từ chúng tôi.</dd>
 <dt>Cuốn sách này có bản in cứng không?</dt>
 <dd>Không, hiện tại chúng tôi chưa có kế hoạch cho một bản in.</dd>
+<!--
 <dt>Bao lâu thì tôi nhận được sách?</dt>
 <dd>Bạn sẽ nhận được sách sau 2-3 ngày kể từ ngày bạn hoàn tất thủ tục mua sách, bao gồm: hoàn tất
 <a href="https://forms.gle/eSofB1Aj4FtYqCq99">biểu mẫu đặt sách</a> và chuyển khoản thành công. 
 Nếu bạn chuyển khoản vào những ngày cuối tuần (từ thứ 6 đến hết Chủ nhật), việc nhận chuyển khoản có thể
 sẽ lâu hơn dự kiến. Vì vậy, thời gian trên là ước lượng. Nếu có bất kỳ câu hỏi nào về quá trình xử lý
 đơn của mình, bạn vui lòng <a href="https://fb.com/mlbvn.org/">nhắn tin cho chúng tôi</a> nhé.</dd>
+-->
+<dt>Bao lâu thì tôi nhận được sách?</dt>
+<dd>Nhóm thực hiện phân phối sách đợt đầu tiên từ ngày 25/05 đến hết ngày 02/06, bạn sẽ nhận được email
+thông tin về sách trong thời gian này.</dd>
 <dt>Tôi đã hoàn tất mọi thủ tục, nhưng vẫn chưa nhận được sách sau thời gian chờ?</dt>
 <dd>Nếu bạn chưa nhận được email, hãy giúp chúng tôi tìm kiếm: ở mục All Mail (Tất cả Thư), ở Promotions, 
 Social, Updates, Forums, và Spam; Hoặc tìm kiếm qua email <a href="mailto:support@mlbvn.org">support@mlbvn.org</a>. 
