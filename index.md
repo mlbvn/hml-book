@@ -85,21 +85,17 @@ chúng tôi cung cấp.<br/>
 <b><a href="#cam-ket-bao-mat">Cam kết Bảo mật</a></b> từ chúng tôi.</dd>
 <dt>Cuốn sách này có bản in cứng không?</dt>
 <dd>Không, hiện tại chúng tôi chưa có kế hoạch cho một bản in.</dd>
-<!--
 <dt>Bao lâu thì tôi nhận được sách?</dt>
-<dd>Bạn sẽ nhận được sách sau 2-3 ngày kể từ ngày bạn hoàn tất thủ tục mua sách, bao gồm: hoàn tất
+<dd>Bạn sẽ nhận được sách sau 3-5 ngày kể từ ngày bạn hoàn tất thủ tục mua sách, bao gồm: hoàn tất
 <a href="https://forms.gle/eSofB1Aj4FtYqCq99">biểu mẫu đặt sách</a> và chuyển khoản thành công. 
 Nếu bạn chuyển khoản vào những ngày cuối tuần (từ thứ 6 đến hết Chủ nhật), việc nhận chuyển khoản có thể
 sẽ lâu hơn dự kiến. Vì vậy, thời gian trên là ước lượng. Nếu có bất kỳ câu hỏi nào về quá trình xử lý
-đơn của mình, bạn vui lòng <a href="https://fb.com/mlbvn.org/">nhắn tin cho chúng tôi</a> nhé.</dd>
--->
-<dt>Bao lâu thì tôi nhận được sách?</dt>
-<dd>Nhóm thực hiện phân phối sách đợt đầu tiên từ ngày 25/05 đến hết ngày 02/06, bạn sẽ nhận được email
-thông tin về sách trong thời gian này.</dd>
+đơn của mình, bạn vui lòng gửi email đến địa chỉ <a href="mailto:support@mlbvn.org">support@mlbvn.org</a> 
+nhé.</dd>
 <dt>Tôi đã hoàn tất mọi thủ tục, nhưng vẫn chưa nhận được sách sau thời gian chờ?</dt>
 <dd>Nếu bạn chưa nhận được email, hãy giúp chúng tôi tìm kiếm: ở mục All Mail (Tất cả Thư), ở Promotions, 
 Social, Updates, Forums, và Spam; Hoặc tìm kiếm qua email <a href="mailto:support@mlbvn.org">support@mlbvn.org</a>. 
-Nếu bạn tìm không thấy, bạn vui lòng <a href="https://fb.com/mlbvn.org/">nhắn tin cho chúng tôi</a> nhé.</dd>
+Nếu bạn tìm không thấy, bạn vui lòng gửi email đến địa chỉ trên cho chúng tôi nhé.</dd>
 <dt>Tôi cần trang bị những gì để có thể tiếp thu cuốn sách này trọn vẹn?</dt>
 <dd>Bạn cần có kinh nghiệp lập trình Python và đã có kinh nghiệm sử dụng các thư viện khoa học của Python,
 ở đây cụ thể là NumPy, Pandas, và Matplotlib. Đồng thời, nếu bạn  quan tâm đến các kiến thức nền tảng, 
@@ -116,7 +112,7 @@ hành trình này sẽ không dễ dàng. Mong bạn kiên nhẫn với chính m
 ## Hỗ trợ
 
 Các hỏi đáp & hỗ trợ liên quan đến đặt sách và nội dung sách, độc giả có thể gửi đến 
-địa chỉ <a href="mailto:support@mlbvn.org?subject=HML - Thắc mắc từ độc giả">support@mlbvn.org</a>, 
+địa chỉ <a href="mailto:support@mlbvn.org?subject=HML, Thắc mắc từ độc giả">support@mlbvn.org</a>, 
 hoặc [Facebook Page của Nhóm dịch thuật](https://fb.com/mlbvn.org/) để chúng tôi có thể hỗ trợ.
 
 Ngoài ra, chúng tôi khuyến khích độc giả thảo luận, hỏi đáp, 
