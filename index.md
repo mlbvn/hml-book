@@ -87,7 +87,7 @@ chúng tôi cung cấp.<br/>
 <dd>Không, hiện tại chúng tôi chưa có kế hoạch cho một bản in.</dd>
 <dt>Bao lâu thì tôi nhận được sách?</dt>
 <dd>Bạn sẽ nhận được sách sau 3-5 ngày kể từ ngày bạn hoàn tất thủ tục mua sách, bao gồm: hoàn tất
-<a href="https://forms.gle/eSofB1Aj4FtYqCq99">biểu mẫu đặt sách</a> và chuyển khoản thành công. 
+<a href="https://forms.gle/j9y3jxNRdn5Q86H49">biểu mẫu đặt sách</a> và chuyển khoản thành công. 
 Nếu bạn chuyển khoản vào những ngày cuối tuần (từ thứ 6 đến hết Chủ nhật), việc nhận chuyển khoản có thể
 sẽ lâu hơn dự kiến. Vì vậy, thời gian trên là ước lượng. Nếu có bất kỳ câu hỏi nào về quá trình xử lý
 đơn của mình, bạn vui lòng gửi email đến địa chỉ <a href="mailto:support@mlbvn.org">support@mlbvn.org</a> 
@@ -105,7 +105,7 @@ bạn cần kha khá kiến thức toán đại học như giải tích, đại 
 mặc dù sách sẽ gợi ý bạn một vài nguồn để bạn tự trang bị kiến thức về lập trình và toán; 
 hành trình này sẽ không dễ dàng. Mong bạn kiên nhẫn với chính mình.</dd>
 <dt>Tôi muốn mua tặng người khác có được không?</dt>
-<dd>Được, bạn hãy điền thông tin của người được tặng vào <a href="https://forms.gle/eSofB1Aj4FtYqCq99">biểu mẫu 
+<dd>Được, bạn hãy điền thông tin của người được tặng vào <a href="https://forms.gle/j9y3jxNRdn5Q86H49">biểu mẫu 
 đặt sách</a> nhé.</dd>
 </dl>
 
