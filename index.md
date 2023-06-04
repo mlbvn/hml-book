@@ -113,7 +113,7 @@ hành trình này sẽ không dễ dàng. Mong bạn kiên nhẫn với chính m
 
 Các hỏi đáp & hỗ trợ liên quan đến đặt sách và nội dung sách, độc giả có thể gửi đến 
 địa chỉ <a href="mailto:support@mlbvn.org?subject=HML, Thắc mắc từ độc giả">support@mlbvn.org</a>, 
-hoặc [Facebook Page của Nhóm dịch thuật](https://fb.com/mlbvn.org/) để chúng tôi có thể hỗ trợ.
+để chúng tôi có thể hỗ trợ.
 
 Ngoài ra, chúng tôi khuyến khích độc giả thảo luận, hỏi đáp, 
 và phản hồi trên [Github Discussions](https://github.com/mlbvn/handson-ml2-vn/discussions).
