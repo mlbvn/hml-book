@@ -107,6 +107,12 @@ hành trình này sẽ không dễ dàng. Mong bạn kiên nhẫn với chính m
 <dt>Tôi muốn mua tặng người khác có được không?</dt>
 <dd>Được, bạn hãy điền thông tin của người được tặng vào <a href="https://forms.gle/j9y3jxNRdn5Q86H49">biểu mẫu 
 đặt sách</a> nhé.</dd>
+<dt>Trong trường hợp nào tôi được hoàn tiền khi đặt sách?</dt>
+<dd>Độc giả vui lòng đọc kỹ các thông tin của chúng tôi đã được đăng tải trên trang này, đặc biệt là quy cách sách
+phát hành và chính sách sử dụng sách. Chúng tôi sẽ chỉ hoàn tiền cho độc giả liên hệ với chúng tôi trong vòng 12 giờ
+đầu tiên sau khi đăng ký và chuyển khoản thành công, với bất kỳ lý do gì. Sau thời gian này, chúng tôi sẽ không hoàn
+tiền với hầu hết các trường hợp, các lý do như mua nhầm vì không phải sách giấy, điền nhầm địa chỉ email, không đọc
+kỹ các thông tin đã được phổ biến ở trên dẫn đến ra quyết định chưa phù hợp với bản thân đều không được chấp nhận.</dd>
 </dl>
 
 ## Hỗ trợ
